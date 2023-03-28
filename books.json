@@ -1,0 +1,56 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Книга3",
+      "author": "Писатель 3",
+      "pub_date": "2014-07-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Книга 4",
+      "author": "Писатель 4",
+      "pub_date": "2022-01-23"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Книга 5",
+      "author": "Писатель 5",
+      "pub_date": "2010-10-09"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Книга 6",
+      "author": "Писатель 6",
+      "pub_date": "2019-08-03"
+    }
+  }
+]
